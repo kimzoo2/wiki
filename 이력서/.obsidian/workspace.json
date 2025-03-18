@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "6724fba5f4cc19c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "66274df06a74629d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43e8f58f644a8e8c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2859d30ba37fd289",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c82400c0f852f7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f6058d8af3f8f01",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "ef9f29a0e3295db1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "0fe23d7eb376ef79",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1e1827860d6e4a56",
+    "type": "split",
+    "children": [
+      {
+        "id": "be9154cd1d9c80c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f1409522426db53",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "이력서.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "이력서 의 백링크"
+            }
+          },
+          {
+            "id": "ef882d6c2c996d39",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "이력서.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "이력서 의 나가는 링크"
+            }
+          },
+          {
+            "id": "ea8e4524c0db8023",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "2cdfc8e129894db3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "이력서.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "이력서 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "43e8f58f644a8e8c",
+  "lastOpenFiles": [
+    "자기소개서.md",
+    "한줄용 이력서.md",
+    "자기소개.md",
+    "이력서.md"
+  ]
+}

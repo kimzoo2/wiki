@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "fd0909e97eb5ff1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "699eb4d2a063d189",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88897c6d8eeeb983",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb69237cdf3b794d",
+    "type": "split",
+    "children": [
+      {
+        "id": "409588144f604192",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f97f1bf9fe4dd0b8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "73b0a37c78903288",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "osiv",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "3187c2a2052fc3f3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c848879b1880a00f",
+    "type": "split",
+    "children": [
+      {
+        "id": "421fa889324f10b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e0866cc26101339",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "스프링/스프링 핵심 원리 - 고급/7. 프록시 팩토리/3) 포인트컷.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "3) 포인트컷 의 백링크"
+            }
+          },
+          {
+            "id": "1a9c541425900524",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "6052833cc067197c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8dfee3c3af241615",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "88897c6d8eeeb983",
+  "lastOpenFiles": [
+    "스프링 클라우드 MSA/4. Config 서버 생성.md",
+    "스프링 클라우드 MSA/3.  Config 깃헙 리포지토리 생성.md",
+    "스프링 클라우드 MSA/2. 스프링에서 MSA.md",
+    "Pasted image 20250309145336.png",
+    "스프링 클라우드 MSA/1. 스프링 클라우드 MSA란?.md",
+    "스프링 클라우드 MSA/스프링 클라우드 MSA.md",
+    "스프링 클라우드 MSA/무제",
+    "스프링 클라우드 MSA",
+    "스프링 부트/9. 액추에이터/5) 애플리케이션 정보.md",
+    "스프링 부트/9. 액추에이터/4) 헬스 정보.md",
+    "스프링 부트/9. 액추에이터/3) 다양한 엔드포인트.md",
+    "스프링 부트/9. 액추에이터/2) 엔드포인트 설정.md",
+    "스프링 부트/9. 액추에이터/1) 액츄에이터 시작.md",
+    "스프링 부트/9. 액추에이터",
+    "스프링/실전! 스프링 부트와 JPA 활용2/6. API 개발 고급 - 실무 필수 최적화/OSIV와 성능 최적화.md",
+    "스프링 부트",
+    "스프링/스프링 핵심 원리 - 고급/13. 실무 문제/1) 프록시 내부 호출 문제, 해결 방법.md",
+    "스프링/스프링 핵심 원리 - 고급/13. 실무 문제/2) 프록시 기술의 한계 - 타입 캐스팅.md",
+    "스프링/스프링 핵심 원리 - 고급/12. 실전 스프링 AOP/1) AOP 만들기.md",
+    "스프링/스프링 핵심 원리 - 고급/13. 실무 문제",
+    "스프링/스프링 핵심 원리 - 고급/무제.md",
+    "스프링/스프링 핵심 원리 - 고급/11. 스프링 AOP - 포인트컷/2) execution.md",
+    "스프링/스프링 핵심 원리 - 고급/12. 실전 스프링 AOP",
+    "스프링/스프링 핵심 원리 - 고급/11. 스프링 AOP - 포인트컷/1) 포인트컷 지시자.md",
+    "스프링/스프링 핵심 원리 - 고급/10. 스프링 AOP 개념/4) 포인트컷 참조.md",
+    "스프링/스프링 핵심 원리 - 고급/11. 스프링 AOP - 포인트컷",
+    "스프링/스프링 핵심 원리 - 고급/10. 스프링 AOP 개념/5) 포인트컷 순서 지정.md",
+    "스프링/스프링 핵심 원리 - 고급/9. @Aspect 프록시/@Aspect.md",
+    "스프링/스프링 핵심 원리 - 고급/10. 스프링 AOP 개념/6) @Around와 다른 어드바이스 종류들.md",
+    "스프링/스프링 핵심 원리 - 고급/10. 스프링 AOP 개념/3) AOP 적용 방식.md",
+    "스프링/스프링 핵심 원리 - 고급/10. 스프링 AOP 개념/2) AOP 소개 - 애스펙트(Aspect).md",
+    "스프링/스프링 핵심 원리 - 고급/10. 스프링 AOP 개념/1) 핵심 기능과 부가 기능.md",
+    "docker-kubernetes/6. 도커 컴포즈/2) 도커 컴포즈 생성해보기.md",
+    "docker-kubernetes/6. 도커 컴포즈/1) 도커 컴포즈를 사용하는 이유.md",
+    "자동프록시_생성기_흐름.png",
+    "스프링/스프링 핵심 원리 - 고급/스크린샷 2025-01-02 오후 4.15.01.png",
+    "invocationHandler.jpeg",
+    "하나의_프록시_여러개의_어드바이저.png",
+    "스크린샷 2025-02-13 오후 1.39.49.png",
+    "스크린샷 2025-02-13 오후 1.31.04.png",
+    "스크린샷 2025-01-03 오후 8.32.23.png",
+    "Redis/비전공자도 이해할 수 있는 Redis/4. 스프링 + Redis",
+    "Redis/비전공자도 이해할 수 있는 Redis/3. Redis 캐싱 전략",
+    "Redis/비전공자도 이해할 수 있는 Redis/2. Redis 사용법 익히기",
+    "스크린샷 2025-01-27 오전 11.12.32.png",
+    "스크린샷 2025-01-27 오전 11.12.07.png"
+  ]
+}

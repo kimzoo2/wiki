@@ -1,0 +1,270 @@
+{
+  "main": {
+    "id": "88ca9ab3de26d373",
+    "type": "split",
+    "children": [
+      {
+        "id": "1841f3b3aeaed5fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7188d1d591fe6c93",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3dad5da9375e7f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f02d71e1e233334",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa75254e14270278",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "86806e4864a793ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "nat",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "3f3b8cb0382413a6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 348.5
+  },
+  "right": {
+    "id": "a56e06669dce6578",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dffc2b7d94067b7",
+        "type": "tabs",
+        "dimension": 30.01893939393939,
+        "children": [
+          {
+            "id": "35759974744b4cbf",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -0.4,
+                  "nodeSizeMultiplier": 0.790657552083333,
+                  "lineSizeMultiplier": 1.2424560546875,
+                  "collapse-forces": false,
+                  "centerStrength": 0.570068359375,
+                  "repelStrength": 6.26627604166667,
+                  "linkStrength": 0.573160807291667,
+                  "linkDistance": 250,
+                  "scale": 1.13701400641929,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          },
+          {
+            "id": "48e6da2e9cbcb3ab",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d571065091c6f3c1",
+        "type": "tabs",
+        "dimension": 69.98106060606061,
+        "children": [
+          {
+            "id": "1e7eb99ec8c69b87",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "네트워크/프로토콜/IP/라우팅.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "라우팅의 백링크"
+            }
+          },
+          {
+            "id": "d8a62171fa2f1e21",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "네트워크/프로토콜/IP/라우팅.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "라우팅의 나가는 링크"
+            }
+          },
+          {
+            "id": "242c90089a7b536a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "00f8e0c1c225f623",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "네트워크/프로토콜/IP/라우팅.md"
+              },
+              "icon": "lucide-list",
+              "title": "라우팅 개요"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "fa75254e14270278",
+  "lastOpenFiles": [
+    "spring/프론트 컨트롤러 패턴이란?.md",
+    "JAVA/동시성 제어를 위한 3가지 방법.md",
+    "spring/Dispatcher Servlet 동작원리.md",
+    "네트워크/NAT(Network Address Translation)란?.md",
+    "네트워크/프로토콜/IP/공인 IP와 사설 IP.md",
+    "네트워크/프로토콜/IP/CIDR(Classless Inter-Domain Routing).md",
+    "네트워크/프로토콜/IP/서브넷(subnet)과 서브넷 마스크 (subnet mask).md",
+    "이력서 기반 면접/프로젝트 질문.md",
+    "JAVA/JVM/JVM의 구조와 역할.md",
+    "JAVA/JVM/Java의 메모리 구조 (Stack, Heap)에 대해 설명해주세요..md",
+    "운영체제/가비지 컬렉션(Garbage collection).md",
+    "이력서 기반 면접/프로젝트 DB 구조.md",
+    "DB/트랜잭션/트랜잭션과 ACID.md",
+    "DB/트랜잭션/트랜잭션 격리 수준(isolation level).md",
+    "DB/정규화/키의 종류 슈퍼키, 후보키, 기본키, 대리키, 외래키.md",
+    "DB/정규화/정규화.md",
+    "DB/인덱스/인덱스.md",
+    "테스트/성능 테스트, 부하 테스트, 스트레스 테스트.md",
+    "이력서 기반 면접/애플리케이션 - DB까지.md",
+    "JAVA/JVM/Java의 컴파일 과정.md",
+    "네트워크/DNS.md",
+    "JAVA/변수/Volatile.md",
+    "DB/RDB vs NoSQL.md",
+    "JAVA/직렬화.md",
+    "DB/DB join.md",
+    "자료구조/B-Tree와 B+Tree.md",
+    "운영체제/파일 시스템",
+    "JAVA/무제 폴더",
+    "이력서 기반 면접",
+    "JAVA/JVM",
+    "JAVA/JPA",
+    "DB/트랜잭션",
+    "DB/innoDB",
+    "DB/정규화",
+    "DB/인덱스",
+    "네트워크/프로토콜/HTTP",
+    "스크린샷 2024-12-23 오후 1.22.34.png",
+    "스크린샷 2024-12-23 오후 12.55.46.png",
+    "스크린샷 2024-12-03 오후 9.31.01.png",
+    "스크린샷 2024-11-01 오후 5.19.58.png",
+    "스크린샷 2024-11-01 오후 5.16.26.png",
+    "스크린샷 2024-11-01 오후 5.08.40.png",
+    "스크린샷 2024-11-01 오후 5.03.08.png",
+    "스크린샷 2024-11-01 오후 5.01.28.png",
+    "DCHP-Request.png",
+    "스크린샷 2024-10-28 오후 8.41.58.png",
+    "무제 파일.canvas"
+  ]
+}
