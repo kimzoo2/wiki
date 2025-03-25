@@ -135,12 +135,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "한 입 크기로 잘라 먹는 리액트/무제.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "무제 의 개요"
             }
           }
         ],
@@ -157,11 +158,15 @@
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88897c6d8eeeb983",
+  "active": "f97f1bf9fe4dd0b8",
   "lastOpenFiles": [
+    "한 입 크기로 잘라 먹는 리액트/js 기본",
+    "한 입 크기로 잘라 먹는 리액트/무제.md",
+    "한 입 크기로 잘라 먹는 리액트",
     "스프링 클라우드 MSA/4. Config 서버 생성.md",
     "스프링 클라우드 MSA/3.  Config 깃헙 리포지토리 생성.md",
     "스프링 클라우드 MSA/2. 스프링에서 MSA.md",
@@ -194,8 +199,6 @@
     "스프링/스프링 핵심 원리 - 고급/10. 스프링 AOP 개념/3) AOP 적용 방식.md",
     "스프링/스프링 핵심 원리 - 고급/10. 스프링 AOP 개념/2) AOP 소개 - 애스펙트(Aspect).md",
     "스프링/스프링 핵심 원리 - 고급/10. 스프링 AOP 개념/1) 핵심 기능과 부가 기능.md",
-    "docker-kubernetes/6. 도커 컴포즈/2) 도커 컴포즈 생성해보기.md",
-    "docker-kubernetes/6. 도커 컴포즈/1) 도커 컴포즈를 사용하는 이유.md",
     "자동프록시_생성기_흐름.png",
     "스프링/스프링 핵심 원리 - 고급/스크린샷 2025-01-02 오후 4.15.01.png",
     "invocationHandler.jpeg",
@@ -205,7 +208,6 @@
     "스크린샷 2025-01-03 오후 8.32.23.png",
     "Redis/비전공자도 이해할 수 있는 Redis/4. 스프링 + Redis",
     "Redis/비전공자도 이해할 수 있는 Redis/3. Redis 캐싱 전략",
-    "Redis/비전공자도 이해할 수 있는 Redis/2. Redis 사용법 익히기",
     "스크린샷 2025-01-27 오전 11.12.32.png",
     "스크린샷 2025-01-27 오전 11.12.07.png"
   ]
