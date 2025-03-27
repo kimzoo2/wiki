@@ -147,9 +147,19 @@
               "icon": "lucide-list",
               "title": "2. 자료형 의 개요"
             }
+          },
+          {
+            "id": "43b4444ca5f51796",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
