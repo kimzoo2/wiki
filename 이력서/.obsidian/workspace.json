@@ -11,10 +11,14 @@
             "id": "43e8f58f644a8e8c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "이력 정리.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "이력 정리"
             }
           }
         ]
@@ -166,6 +170,8 @@
   },
   "active": "43e8f58f644a8e8c",
   "lastOpenFiles": [
+    "이력 정리.md",
+    "이력",
     "자기소개서.md",
     "한줄용 이력서.md",
     "자기소개.md",
