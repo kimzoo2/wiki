@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "이력 정리.md",
+                "file": "이력/이력 정리.md",
                 "mode": "source",
                 "source": false
               },
@@ -168,9 +168,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "43e8f58f644a8e8c",
+  "active": "0f6058d8af3f8f01",
   "lastOpenFiles": [
-    "이력 정리.md",
+    "이력/이력 정리.md",
     "이력",
     "자기소개서.md",
     "한줄용 이력서.md",
