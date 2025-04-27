@@ -1,4 +1,6 @@
 State를 Props로 전달하기
+**State에 Props로만 데이터를 전달할 수 있다**.
+- 기본적으로 부모 <-> 자식간의 props만 데이터를 전송 가능
 
 ```js
 const Counter = () => {
