@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/useEffect로 라이프사이클 제어하기.md",
+                "file": "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/useReducer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "useEffect로 라이프사이클 제어하기"
+              "title": "useReducer"
             }
           }
         ]
@@ -178,8 +178,9 @@
   },
   "active": "46a8106b0d384d16",
   "lastOpenFiles": [
-    "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/useEffect 사용하기.md",
     "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/useEffect로 라이프사이클 제어하기.md",
+    "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/useReducer.md",
+    "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/useEffect 사용하기.md",
     "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/리액트 컴포넌트의 라이프 사이클.md",
     "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/State Lifting.md",
     "한 입 크기로 잘라 먹는 리액트/6.React.js 입문/State와 Props.md",
@@ -213,7 +214,6 @@
     "스프링 클라우드 MSA/스프링 클라우드 MSA.md",
     "스프링 클라우드 MSA/무제",
     "스프링 클라우드 MSA",
-    "스프링 부트/9. 액추에이터/3) 다양한 엔드포인트.md",
     "스프링 부트/9. 액추에이터",
     "스프링 부트",
     "스프링/스프링 핵심 원리 - 고급/13. 실무 문제",
