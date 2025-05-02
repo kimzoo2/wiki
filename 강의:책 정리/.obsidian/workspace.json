@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "무제"
             }
+          },
+          {
+            "id": "059abb949d9df6c8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,7 +189,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "46a8106b0d384d16",
+  "active": "059abb949d9df6c8",
   "lastOpenFiles": [
     "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/Context.md",
     "한 입 크기로 잘라 먹는 리액트/무제.md",
