@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "54fa77b595fe0ff6",
+        "id": "b6f1d80f416336c3",
         "type": "tabs",
         "children": [
           {
-            "id": "46a8106b0d384d16",
+            "id": "094f6b8aedefdabb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "한 입 크기로 잘라 먹는 리액트/무제.md",
+                "file": "한 입 크기로 잘라 먹는 리액트/Context/Context.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "무제"
-            }
-          },
-          {
-            "id": "059abb949d9df6c8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.10"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "title": "Context"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,20 +176,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "059abb949d9df6c8",
+  "active": "094f6b8aedefdabb",
   "lastOpenFiles": [
+    "무제 1.md",
+    "한 입 크기로 잘라 먹는 리액트/Context/Context.md",
+    "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/useMemo - 값, 결과를 기억하여 불필요한 연산 제거.md",
+    "한 입 크기로 잘라 먹는 리액트/Context",
+    "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/React.memo.md",
+    "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/useCallback - 불필요한 함수 재생성 방지.md",
+    "한 입 크기로 잘라 먹는 리액트/리액트 훅",
+    "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/useReducer.md",
     "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/Context.md",
     "한 입 크기로 잘라 먹는 리액트/무제.md",
-    "한 입 크기로 잘라 먹는 리액트/무제",
     "스크린샷 2025-04-27 오후 7.53.29.png",
     "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/리액트 컴포넌트의 라이프 사이클.md",
-    "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/useMemo.md",
     "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/무제",
     "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/useEffect 사용하기.md",
     "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/State Lifting.md",
     "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/useEffect로 라이프사이클 제어하기.md",
     "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/리액트의 최적화 방법.md",
-    "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/useReducer.md",
     "한 입 크기로 잘라 먹는 리액트/6.React.js 입문/State와 Props.md",
     "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기",
     "한 입 크기로 잘라 먹는 리액트/6.React.js 입문/useRef로 컴포넌트의 변수 생성하기.md",
@@ -221,16 +213,11 @@
     "스크린샷 2025-03-30 오후 6.16.51.png",
     "git",
     "한 입 크기로 잘라 먹는 리액트/1. js 기본/1. 자바 스크립트는 어떻게 실행될까?.md",
-    "Redis/비전공자도 이해할 수 있는 Redis/3. Redis 캐싱 전략/캐시와 전략.md",
-    "스프링 부트/9. 액추에이터/4) 헬스 정보.md",
-    "스프링 부트/9. 액추에이터/5) 애플리케이션 정보.md",
     "한 입 크기로 잘라 먹는 리액트/1. js 기본",
     "한 입 크기로 잘라 먹는 리액트",
-    "스프링 클라우드 MSA/4. Config 서버 생성.md",
     "Pasted image 20250309145336.png",
     "스프링 클라우드 MSA/무제",
     "스프링 클라우드 MSA",
-    "스프링 부트/9. 액추에이터",
     "자동프록시_생성기_흐름.png",
     "스프링/스프링 핵심 원리 - 고급/스크린샷 2025-01-02 오후 4.15.01.png",
     "invocationHandler.jpeg",
