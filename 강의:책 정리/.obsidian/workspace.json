@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bbdb0d0ab6305228",
+        "id": "d5a5ca6608b0e716",
         "type": "tabs",
         "children": [
           {
-            "id": "54653e4dcaac2731",
+            "id": "a9cdadad9346e1df",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "강의:책 정리/.obsidian/core-plugins.json",
-                "bFile": "강의:책 정리/.obsidian/core-plugins.json",
+                "aFile": "강의:책 정리/.obsidian/workspace.json",
+                "bFile": "강의:책 정리/.obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: core-plugins.json"
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -177,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54653e4dcaac2731",
+  "active": "a9cdadad9346e1df",
   "lastOpenFiles": [
     "한 입 크기로 잘라 먹는 리액트/13. 감정일기장/1. 페이지 라우팅.md",
     "한 입 크기로 잘라 먹는 리액트/Context/Context 분리하기.md",
