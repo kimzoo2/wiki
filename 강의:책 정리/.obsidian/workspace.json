@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "fd0909e97eb5ff1c",
+    "id": "b262e170a63aa706",
     "type": "split",
     "children": [
       {
-        "id": "d5a5ca6608b0e716",
+        "id": "593fd7200b575db3",
         "type": "tabs",
         "children": [
           {
-            "id": "a9cdadad9346e1df",
+            "id": "89bc3a5a91d0bd5b",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "강의:책 정리/.obsidian/workspace.json",
-                "bFile": "강의:책 정리/.obsidian/workspace.json",
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "Diff: .gitignore"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "eb69237cdf3b794d",
+    "id": "910415c4bbe361a1",
     "type": "split",
     "children": [
       {
-        "id": "409588144f604192",
+        "id": "ad8278db8ac04c9d",
         "type": "tabs",
         "children": [
           {
-            "id": "f97f1bf9fe4dd0b8",
+            "id": "f7b893c15f8a0647",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +48,12 @@
             }
           },
           {
-            "id": "73b0a37c78903288",
+            "id": "4d920be013f886ce",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "osiv",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,13 +65,13 @@
             }
           },
           {
-            "id": "3187c2a2052fc3f3",
+            "id": "2e7cf746bdfa6a5f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "북마크"
             }
           }
         ]
@@ -81,21 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "c848879b1880a00f",
+    "id": "aa1c018a52ec9b5f",
     "type": "split",
     "children": [
       {
-        "id": "421fa889324f10b4",
+        "id": "95d2b28f57e9a8c5",
         "type": "tabs",
         "children": [
           {
-            "id": "7e0866cc26101339",
+            "id": "b99b21bfa681043f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "스프링/스프링 핵심 원리 - 고급/7. 프록시 팩토리/3) 포인트컷.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -104,11 +103,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "3) 포인트컷 의 백링크"
+              "title": "백링크"
             }
           },
           {
-            "id": "1a9c541425900524",
+            "id": "db91417d2ea53194",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -121,35 +120,36 @@
             }
           },
           {
-            "id": "6052833cc067197c",
+            "id": "68749dfed606cfa8",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "태그"
             }
           },
           {
-            "id": "8dfee3c3af241615",
+            "id": "f8f54d1c61fcdd50",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "한 입 크기로 잘라 먹는 리액트/1. js 기본/2. 자료형.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2. 자료형 의 개요"
+              "title": "개요"
             }
           },
           {
-            "id": "43b4444ca5f51796",
+            "id": "bd73c4e002a3388c",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -163,67 +163,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:새 베이스 생성하기": false,
       "switcher:빠른 전환기 열기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a9cdadad9346e1df",
-  "lastOpenFiles": [
-    "한 입 크기로 잘라 먹는 리액트/13. 감정일기장/1. 페이지 라우팅.md",
-    "한 입 크기로 잘라 먹는 리액트/Context/Context 분리하기.md",
-    "한 입 크기로 잘라 먹는 리액트/13. 감정일기장",
-    "한 입 크기로 잘라 먹는 리액트/Context/Context.md",
-    "무제 1.md",
-    "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/useMemo - 값, 결과를 기억하여 불필요한 연산 제거.md",
-    "한 입 크기로 잘라 먹는 리액트/Context",
-    "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/React.memo.md",
-    "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/useCallback - 불필요한 함수 재생성 방지.md",
-    "한 입 크기로 잘라 먹는 리액트/리액트 훅",
-    "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/useReducer.md",
-    "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/Context.md",
-    "한 입 크기로 잘라 먹는 리액트/무제.md",
-    "스크린샷 2025-04-27 오후 7.53.29.png",
-    "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/리액트 컴포넌트의 라이프 사이클.md",
-    "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/무제",
-    "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/useEffect 사용하기.md",
-    "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/State Lifting.md",
-    "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/useEffect로 라이프사이클 제어하기.md",
-    "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기/리액트의 최적화 방법.md",
-    "한 입 크기로 잘라 먹는 리액트/6.React.js 입문/State와 Props.md",
-    "한 입 크기로 잘라 먹는 리액트/7. 리액트 앱 만들기",
-    "한 입 크기로 잘라 먹는 리액트/6.React.js 입문/useRef로 컴포넌트의 변수 생성하기.md",
-    "한 입 크기로 잘라 먹는 리액트/6.React.js 입문/State.md",
-    "한 입 크기로 잘라 먹는 리액트/6.React.js 입문/이벤트 처리하기.md",
-    "한 입 크기로 잘라 먹는 리액트/1. js 기본/2. 자료형.md",
-    "한 입 크기로 잘라 먹는 리액트/6.React.js 입문/React Hooks.md",
-    "한 입 크기로 잘라 먹는 리액트/6.React.js 입문/State로 사용자 입력 관리하기 1.md",
-    "한 입 크기로 잘라 먹는 리액트/6.React.js 입문",
-    "무제.md",
-    "git/rebase, main.md",
-    "git/원하는 커밋만 처리하기 (cherry-pick, rebase -i).md",
-    "git/원복하기 (reset, revoke).md",
-    "스크린샷 2025-03-30 오후 6.17.04.png",
-    "스크린샷 2025-03-30 오후 6.16.51.png",
-    "git",
-    "한 입 크기로 잘라 먹는 리액트/1. js 기본",
-    "한 입 크기로 잘라 먹는 리액트",
-    "Pasted image 20250309145336.png",
-    "스프링 클라우드 MSA/무제",
-    "자동프록시_생성기_흐름.png",
-    "스프링/스프링 핵심 원리 - 고급/스크린샷 2025-01-02 오후 4.15.01.png",
-    "invocationHandler.jpeg",
-    "하나의_프록시_여러개의_어드바이저.png",
-    "스크린샷 2025-02-13 오후 1.39.49.png",
-    "스크린샷 2025-02-13 오후 1.31.04.png"
-  ]
+  "active": "89bc3a5a91d0bd5b",
+  "lastOpenFiles": []
 }
