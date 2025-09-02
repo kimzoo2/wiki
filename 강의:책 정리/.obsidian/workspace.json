@@ -11,14 +11,14 @@
             "id": "54653e4dcaac2731",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "한 입 크기로 잘라 먹는 리액트/13. 감정일기장/1. 페이지 라우팅.md",
-                "mode": "source",
-                "source": false
+                "aFile": "강의:책 정리/.obsidian/core-plugins.json",
+                "bFile": "강의:책 정리/.obsidian/core-plugins.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "1. 페이지 라우팅"
+              "icon": "diff",
+              "title": "Diff: core-plugins.json"
             }
           }
         ]
@@ -167,6 +167,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:새 베이스 생성하기": false,
       "switcher:빠른 전환기 열기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "graph:그래프 뷰 열기": false,
@@ -178,8 +179,8 @@
   },
   "active": "54653e4dcaac2731",
   "lastOpenFiles": [
-    "한 입 크기로 잘라 먹는 리액트/Context/Context 분리하기.md",
     "한 입 크기로 잘라 먹는 리액트/13. 감정일기장/1. 페이지 라우팅.md",
+    "한 입 크기로 잘라 먹는 리액트/Context/Context 분리하기.md",
     "한 입 크기로 잘라 먹는 리액트/13. 감정일기장",
     "한 입 크기로 잘라 먹는 리액트/Context/Context.md",
     "무제 1.md",
