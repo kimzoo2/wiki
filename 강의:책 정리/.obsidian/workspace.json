@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "593fd7200b575db3",
+        "id": "6b51c695b1902baa",
         "type": "tabs",
         "children": [
           {
-            "id": "89bc3a5a91d0bd5b",
+            "id": "f6e4b1668287e608",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "강의:책 정리/.obsidian/workspace.json",
-                "bFile": "강의:책 정리/.obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
             }
           }
         ]
@@ -177,6 +173,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd73c4e002a3388c",
-  "lastOpenFiles": []
+  "active": "f6e4b1668287e608",
+  "lastOpenFiles": [
+    "한 입 크기로 잘라 먹는 리액트/13. 감정일기장/1. 페이지 라우팅.md"
+  ]
 }
