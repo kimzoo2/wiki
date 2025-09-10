@@ -11,10 +11,14 @@
             "id": "f6e4b1668287e608",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docker-kubernetes/3. 도커 이미지 & 컨테이너/3) 기본 이미지 기반으로 커스텀 이미지 빌드하기 및 변경사항 적용하기.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "3) 기본 이미지 기반으로 커스텀 이미지 빌드하기 및 변경사항 적용하기"
             }
           }
         ]
@@ -159,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,6 +180,10 @@
   },
   "active": "f6e4b1668287e608",
   "lastOpenFiles": [
+    "docker-kubernetes/3. 도커 이미지 & 컨테이너/2) 외부 이미지 사용하기.md",
+    "docker-kubernetes/3. 도커 이미지 & 컨테이너/3) 기본 이미지 기반으로 커스텀 이미지 빌드하기 및 변경사항 적용하기.md",
+    "docker-kubernetes/3. 도커 이미지 & 컨테이너/1) 이미지와 컨테이너.md",
+    "docker-kubernetes/2. docker란 무엇인가?/1) 도커란?.md",
     "한 입 크기로 잘라 먹는 리액트/13. 감정일기장/1. 페이지 라우팅.md"
   ]
 }
