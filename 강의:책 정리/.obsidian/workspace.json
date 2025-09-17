@@ -11,10 +11,14 @@
             "id": "e52c5410edd48951",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "clean-architecture/1장 계층형 아키텍처의 문제점/계층형 아키텍처의 문제점.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "계층형 아키텍처의 문제점"
             }
           }
         ]
